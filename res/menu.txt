@@ -1,0 +1,5 @@
+#Livescribe menu setting
+#Fri Jan 21 23:07:46 GMT 2011
+appclassname=zpen.ZPen
+name=ZORK I
+sound=
